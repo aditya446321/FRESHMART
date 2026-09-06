@@ -1,0 +1,6 @@
+{
+  "name": "Freshmart",
+  "description": "Freshmart - 10 to 21 minute instant grocery delivery in Mumbai.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
